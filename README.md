@@ -51,7 +51,7 @@
 
 ## Demo 🧑‍💻
 
-[insert a link or a video]
+<img src="/readme-assets/preview.png" alt="Preview of Planet Xcape" align="center" />
 
 
 ## Getting Started 🌱
